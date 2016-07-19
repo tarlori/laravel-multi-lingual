@@ -1,0 +1,16 @@
+.menu {
+	margin-top: 10px;
+}
+
+.lang-switcher {
+	margin-top: 10px;
+}
+
+.lang-switcher a {
+	color: #666;
+}
+
+.lang-switcher a.active {
+	color: red;
+	font-weight: bold;
+}
